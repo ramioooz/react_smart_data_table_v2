@@ -1,0 +1,18 @@
+/* .tableRow{
+    background: red;
+} */
+
+.tableRow:hover {
+  background: #bababa;
+}
+
+.paginationBtn{
+  padding: 2px 10px;
+  border: 2px solid gray;
+}
+.paginationBtn:hover{
+  background: yellow
+}
+.btnSelected {
+  background: yellow;
+}
