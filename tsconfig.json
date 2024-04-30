@@ -16,8 +16,8 @@
 
     /* Linting */
     "strict": true,
-    "noUnusedLocals": true,
-    "noUnusedParameters": true,
+    // "noUnusedLocals": true, // <-- edit by rami
+    // "noUnusedParameters": true, // <-- edit by rami
     "noFallthroughCasesInSwitch": true
   },
   "include": ["src"],
